@@ -1,0 +1,11 @@
+[user]
+	name = yaito6502
+	email = 79784339+yaito6502@users.noreply.github.com
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+[core]
+	editor = code --wait
+[init]
+	defaultBranch = main
